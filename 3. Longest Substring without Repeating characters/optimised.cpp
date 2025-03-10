@@ -8,6 +8,7 @@ class Solution {
             //Time Complexity: O(n) 
             //Space Complexity: O(1)
             //This is a optimised approach as we are using a map to store the index of the characters
+            
     
         int lengthOfLongestSubstring(string s) {
             vector<int> map(256,-1);
