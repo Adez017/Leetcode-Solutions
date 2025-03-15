@@ -15,4 +15,4 @@ public:
 // we found the lower bound of zero i.e the first negative number idx  i.e count of negative numbers
 //simply return the max of both
 //TC: O(NlogN)
-//SC: O(1)
+//SC: O(1)k
